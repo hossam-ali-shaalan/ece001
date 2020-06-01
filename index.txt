@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Artificial Intelligence </title>
+</head>
+<body>
+	<h1>Artificial Intelligence 
+</h1>
+<p> In the simplest terms, the term artificial intelligence (AI) refers to systems or devices that mimic human intelligence to perform tasks that can improve themselves based on the information they collect. Artificial intelligence manifests itself in a number of forms. Some of these examples are:
+
+Conversation robots use artificial intelligence to understand customer problems faster and provide more efficient answers
+Artificial intelligence-based use it to analyze critical information from a wide range of text data to improve scheduling
+Recommendation engines can make automated recommendations for TV shows based on users ’viewing habits
+
+Artificial intelligence is more about the ability to think super and analyze data than to be attached to a particular shape or function. Although artificial intelligence provides images of human-like high-performance robots that dominate the world, it does not do until it replaces humans. It greatly enhances human capabilities and contributions. Which makes it a valuable asset from the business.
+Send feedback
+History
+Saved
+Community </p>
+<p> 
+
+Artificial intelligence has become a comprehensive term for applications that perform complex tasks that in the past required human inputs such as communicating with customers over the Internet or playing chess. The term is often used interchangeably with its sub-fields, which include machine learning and deep learning. However, there are differences. For example, machine learning focuses on creating systems that learn or improve their performance based on the data they consume. It is important to note that although all avenues of machine learning are only artificial intelligence, not all artificial intelligence is machine learning.
+
+To get the full value of artificial intelligence, many companies are making major investments in data science teams. Data science, which is a multidisciplinary field that uses scientific methods and other methods to extract value from data, combines skills derived from fields such as statistics and computer science with the scientific knowledge to analyze data collected from multiple sources.</p>
+	<h2>pages</h2>
+	<ul>
+  <li><a href="index.html">introduction</a></li>
+  <li><a href="p1.html">the importants of Artificial Intelligence </a></li>
+  <li><a href="p2.html">The factors behind the adoption of artificial intelligence</a></li>
+   <li><a href="p3.html">Common myths about enterprise AI</a></li>
+   <li><a href="p4.html">Common myths about enterprise AI</a></li>
+</ul>
+
+</body>
+</html>
